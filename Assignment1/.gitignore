@@ -1,0 +1,7 @@
+# Ignora le cartelle di laboratorio che non vuoi tracciare
+Lab1/
+Lab2/
+
+# Ignora file temporanei
+*.so
+*.o
