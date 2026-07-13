@@ -1,0 +1,9 @@
+/home/matteo/Laboratori_Compilatori/Assignment3/BUILD/CMakeFiles/intrinsics_gen.dir
+/home/matteo/Laboratori_Compilatori/Assignment3/BUILD/CMakeFiles/omp_gen.dir
+/home/matteo/Laboratori_Compilatori/Assignment3/BUILD/CMakeFiles/acc_gen.dir
+/home/matteo/Laboratori_Compilatori/Assignment3/BUILD/CMakeFiles/ARMTargetParserTableGen.dir
+/home/matteo/Laboratori_Compilatori/Assignment3/BUILD/CMakeFiles/AArch64TargetParserTableGen.dir
+/home/matteo/Laboratori_Compilatori/Assignment3/BUILD/CMakeFiles/RISCVTargetParserTableGen.dir
+/home/matteo/Laboratori_Compilatori/Assignment3/BUILD/CMakeFiles/LoopCodeMotion.dir
+/home/matteo/Laboratori_Compilatori/Assignment3/BUILD/CMakeFiles/edit_cache.dir
+/home/matteo/Laboratori_Compilatori/Assignment3/BUILD/CMakeFiles/rebuild_cache.dir
